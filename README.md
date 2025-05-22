@@ -13,7 +13,7 @@ Este repositório contém o trabalho prático 1 da disciplina de Projeto de Bloc
 
 ## Instalação
 ```bash
-git clone https://github.com/seu-usuario/PB_IA_ML-TP1.git
+git clone https://github.com/seu-usuario/PB-IA-ML-TP1.git
 cd PB_IA_ML-TP1
 pip install -r requirements.txt
 ```
